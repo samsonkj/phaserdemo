@@ -1,5 +1,6 @@
-demo.state1 = function(){};
-demo.state1.prototype = {
+var demo = {};
+demo.state9 = function(){};
+demo.state9.prototype = {
     preload: function(){},
     create: function(){
         game.stage.backgroundColor = '#DDDDDD';
